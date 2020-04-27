@@ -1,0 +1,12 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rawblue-sudo/function-test.git",
+  "author": "rawblue-sudo <56031736+rawblue-sudo@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
